@@ -6,4 +6,6 @@
 
 + custom average grades calculator
 
->language: java script
+>Prog. language: java script
+
+>language: BR-Portuguese / English
